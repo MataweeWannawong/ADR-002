@@ -1,4 +1,4 @@
-# ADR_SLM-Capability-Limitation-and-Cloud-Escalation
+# ADR_002_SLM-Capability-Limitation-and-Cloud-Escalation
 ## ADR: Edge SLM Capability Limitation and Cloud Escalation Strategy
 
 ---
